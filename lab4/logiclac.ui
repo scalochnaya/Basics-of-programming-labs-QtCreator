@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>logiclac</class>
+ <widget class="QWidget" name="logiclac">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>263</width>
+    <height>99</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>logiclac</string>
+  </property>
+  <widget class="QLineEdit" name="resultEdit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>60</y>
+     <width>241</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="logicBox1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>51</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>0</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QComboBox" name="logicBox2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>20</y>
+     <width>51</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>0</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QComboBox" name="operationBox">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>20</y>
+     <width>101</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>И</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ИЛИ</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ЛОГ. НЕ</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ЕСЛИ, ТО</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>РАВНО</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ИСКЛ. ИЛИ</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ИНКРЕМЕНТ</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ДЕКРЕМЕНТ</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>НЕ</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
