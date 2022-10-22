@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/4EPXvmP0_vU.png</file>
+        <file>img/48-484147_queen-1-queen-chess-png.png</file>
+        <file>img/570673.69460a55.5000x5000o.f3e0fff92cfc.png</file>
+        <file>img/2603808.png</file>
+        <file>img/1423912022_520150214-smeshnye-demotivatory.png</file>
+        <file>img/istockphoto-533191783-1024x1024.png</file>
+        <file>img/gordon.png</file>
+        <file>img/boss.png</file>
+        <file>img/alyx.png</file>
+        <file>img/doge.png</file>
+        <file>img/geralt.png</file>
+        <file>img/james.png</file>
+        <file>img/lara.png</file>
+    </qresource>
+</RCC>
